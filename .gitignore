@@ -70,3 +70,4 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/ Packages/MixedReality/com.microsoft.mixedreality.toolkit.examples-2.8.3.tgz
